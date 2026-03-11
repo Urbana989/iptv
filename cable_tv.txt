@@ -1,0 +1,475 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Los Simpson 24 horas
+http://170.246.176.223:12300/Live/dfea9ac7017e056d7bbb8bc031cc7273/online-24-7.playlist.m3u8
+#EXTINF:0 type="stream" channelId="991", RTS
+https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+#EXTINF:0 type="stream" channelId="2843", Ciudad magazine
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/ciudadmagazine_720.m3u8
+#EXTINF:0 type="stream" channelId="4572", Link tv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/LinkTvCanal.playlist.m3u8
+#EXTINF:0 type="stream" channelId="3789", Telefe
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/telefe_720.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal trece
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/eltrece_540.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv publica
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/tvpublica_480.m3u8
+#EXTINF:0 type="stream" channelId="2546", América tv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/americatv_540.m3u8
+#EXTINF:0 type="stream" channelId="3052", Tn tv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/tn_480.m3u8
+#EXTINF:0 type="stream" channelId="-1", Argentina satelital 17
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/argentinisima.playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tierramiatv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/tierramiatv_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1", Deportivo tv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/deportv_720.m3u8
+#EXTINF:0 type="stream" channelId="-1", Crónica tv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/CronicaTv_480.m3u8
+#EXTINF:0 type="stream" channelId="1929", C5N tv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/c5n_480.m3u8
+#EXTINF:0 type="stream" channelId="4655", A24 tv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/a24_480.m3u8
+#EXTINF:0 type="stream" channelId="-1", Televisa tv
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/canal9televida.playlist.m3u8
+#EXTINF:0 type="stream" channelId="4667", Ln+
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/lntv_720.m3u8
+#EXTINF:0 type="stream" channelId="2726", Canal 26
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/c26_480.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urbana 104.3 play
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/UrbanaPlay_480.m3u8
+#EXTINF:0 type="stream" channelId="-1", Multivision federal
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/Multivision.playlist.m3u8
+#EXTINF:0 type="stream" channelId="4670", Net TV
+http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/CanalNet_480.m3u8
+#EXTINF:0 type="stream" channelId="2540", Espn
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/81262.ts
+#EXTINF:0 type="stream" channelId="344", ESPN 2
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/81259.ts
+#EXTINF:0 type="stream" channelId="1263", ESPN premium
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/149087.ts
+#EXTINF:0 type="stream" channelId="170", Fox sports 2
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/50507.ts
+#EXTINF:0 type="stream" channelId="3802", TyC sports
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/81253.ts
+#EXTINF:0 type="stream" channelId="4668", TNT sports
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/81284.ts
+#EXTINF:0 type="stream" channelId="177", Star channel
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/436010.ts
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/435994.ts
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/1246.ts
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/1240.ts
+#EXTINF:0 type="stream" channelId="935", HBO 2
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/435988.ts
+#EXTINF:0 type="stream" channelId="2584", HBO family
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/53.ts
+#EXTINF:0 type="stream" channelId="2585", HBO plus
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/50.ts
+#EXTINF:0 type="stream" channelId="2587", HBO xtreme
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/48.ts
+#EXTINF:0 type="stream" channelId="383", Space
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/1282.ts
+#EXTINF:0 type="stream" channelId="3765", Golden plus
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/53942.ts
+#EXTINF:0 type="stream" channelId="1963", Golden premier
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/1294.ts
+#EXTINF:0 type="stream" channelId="1962", Golden
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/1288.ts
+#EXTINF:0 type="stream" channelId="2502", Golden edge
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/1291.ts
+#EXTINF:0 type="stream" channelId="2501", Amc
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/1285.ts
+#EXTINF:0 type="stream" channelId="326", Europa europa
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/317522.ts
+#EXTINF:0 type="stream" channelId="-1", Chespirito 24/7
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/316937.ts
+#EXTINF:0 type="stream" channelId="-1", El chapulín colorado 24/7
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/316967.ts
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/317113.ts
+#EXTINF:0 type="stream" channelId="-1", 24/7 estreno
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/317127.ts
+#EXTINF:0 type="stream" channelId="-1", 24/7 Rocky
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/317147.ts
+#EXTINF:0 type="stream" channelId="-1", 24/7 Shrek
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/317150.ts
+#EXTINF:0 type="stream" channelId="-1", 24/7 Volver del futuro
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/317158.ts
+#EXTINF:0 type="stream" channelId="-1", 24/7 retro Cine
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/93104.ts
+#EXTINF:0 type="stream" channelId="-1", 24/7 Netflix
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/317032.ts
+#EXTINF:0 type="stream" channelId="2501", Amc tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9620
+#EXTINF:0 type="stream" channelId="1330", HBO tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9669
+#EXTINF:0 type="stream" channelId="935", HBO 2 tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9674
+#EXTINF:0 type="stream" channelId="2584", Hbo family tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9680
+#EXTINF:0 type="stream" channelId="2585", HBO plus tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9687
+#EXTINF:0 type="stream" channelId="2587", HBO XTREME FHD
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9700
+#EXTINF:0 type="stream" channelId="283", Cine latino tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9626
+#EXTINF:0 type="stream" channelId="64", Cine canal tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9630
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9633
+#EXTINF:0 type="stream" channelId="1190", Comedy central tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9636
+#EXTINF:0 type="stream" channelId="1052", TNT tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9742
+#EXTINF:0 type="stream" channelId="2684", TNT serie
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9748
+#EXTINF:0 type="stream" channelId="187", Universal tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9753
+#EXTINF:0 type="stream" channelId="187", Universal crimen
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9761
+#EXTINF:0 type="stream" channelId="2557", Warner tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9776
+#EXTINF:0 type="stream" channelId="134", De película mx
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9638
+#EXTINF:0 type="stream" channelId="-1", De películas clásicas
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9641
+#EXTINF:0 type="stream" channelId="3743", Dhe tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9643
+#EXTINF:0 type="stream" channelId="1961", Distrito comercia tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9644
+#EXTINF:0 type="stream" channelId="326", Europa europa tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9648
+#EXTINF:0 type="stream" channelId="1303", Fx tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9652
+#EXTINF:0 type="stream" channelId="333", Golden tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9657
+#EXTINF:0 type="stream" channelId="2502", Golden edge tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9658
+#EXTINF:0 type="stream" channelId="3765", Golden plus tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9660
+#EXTINF:0 type="stream" channelId="1963", Golden premier tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9663
+#EXTINF:0 type="stream" channelId="3766", Golden premier 2 tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9665
+#EXTINF:0 type="stream" channelId="1200", Litetime tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9703
+#EXTINF:0 type="stream" channelId="188", Sony channel tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9711
+#EXTINF:0 type="stream" channelId="-1", Sony novelas tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9716
+#EXTINF:0 type="stream" channelId="383", Space tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9718
+#EXTINF:0 type="stream" channelId="895", Tcm tv
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9740
+#EXTINF:0 type="stream" channelId="2540", Espn col 1
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9517
+#EXTINF:0 type="stream" channelId="2540", ESPN chi 1
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/99539
+#EXTINF:0 type="stream" channelId="2540", Espn arg 1
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9520
+#EXTINF:0 type="stream" channelId="344", ESPN 2 arg
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9526
+#EXTINF:0 type="stream" channelId="344", Col 2
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9529
+#EXTINF:0 type="stream" channelId="355", Espn arg 3
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9533
+#EXTINF:0 type="stream" channelId="355", ESPN col 3
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9532
+#EXTINF:0 type="stream" channelId="1263", Espn primero
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9549
+#EXTINF:0 type="stream" channelId="1329", Fox sports 1 arg
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9575
+#EXTINF:0 type="stream" channelId="170", Fox sports 2 arg
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/9580
+#EXTINF:0 type="stream" channelId="4668", TNT sports arg
+http://tv.proyectox.vip:8080/HjJdmrWMwi/6243c14e25e9/157585
+#EXTINF:0 type="stream" channelId="-1", Música hit
+http://vipkendrake.top:8080/VIP016881762594112102/4ca524b457eb/4779
+#EXTINF:0 type="stream" channelId="-1" name="AnimeStation" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png", AnimeStation HD publico
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="LOCOMOTION 24/7" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png", LOCOMOTION 24/7 HD
+https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Anime Vision" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png", Anime Vision HD (Opcion 2)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Anime Vision Classics" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png", Anime Vision Classics HD (Opcion 2)
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Etc TV" group="JOVENES Y ADULTOS" logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png", Etc TV HD
+http://45.181.122.46:8090/play/a00t
+#EXTINF:0 type="stream" channelId="-1" group="Familiares" logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg", Retrotoons HD (Opcion 2)
+https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Familiares" logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png", Gogoplay Max
+https://live20.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Familiares" logo="https://i.ibb.co/vX9JVmf/Logo-TV-Retro-Palmares.png", TV Retro Palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Familiares" logo="https://i.ibb.co/vX9JVmf/Logo-TV-Retro-Palmares.png", TV Retro Palmares (Opcion 2)
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Familiares" logo="https://i.ibb.co/1msVb31/logo-Retro-TV.png", Retro TV HD
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2287" group="LATINO" logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png", Las Estrellas HD
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="LATINO" logo="https://i.ibb.co/kV3GzXqn/Logo-Sony-One-Cinema.png", Sony One Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="LATINO" logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png", Sony Canal Novelas
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ZyoonTV" logo="https://cdn.m3u.cl/logo/1691_ZyoonTV.png", ZyoonTV | UY
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1569" name="5TV" logo="https://cdn.m3u.cl/logo/249_5TV.png", 5TV | AR
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Aire de Santa Fe" logo="https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png", Aire de Santa Fe | AR
+https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Cadena 103" logo="https://cdn.m3u.cl/logo/224_Cadena_103.png", Cadena 103 | AR
+https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 13 La Rioja" logo="https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.png", Canal 13 La Rioja | AR
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 21 Misiones" logo="https://cdn.m3u.cl/logo/1057_Canal_21_Misiones.png", Canal 21 Misiones | AR
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 3 La Pampa" logo="https://cdn.m3u.cl/logo/776_Canal_3_La_Pampa.png", Canal 3 La Pampa | AR
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 3 Las Heras" logo="https://cdn.m3u.cl/logo/231_Canal_3_Las_Heras.png", Canal 3 Las Heras | AR
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 34 San Juan" logo="https://cdn.m3u.cl/logo/1346_Canal_34_San_Juan.png", Canal 34 San Juan | AR
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 4 San Juan" logo="https://cdn.m3u.cl/logo/260_Canal_4_San_Juan.png", Canal 4 San Juan | AR
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 5 Pico Truncado" logo="https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.png", Canal 5 Pico Truncado | AR
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 5 Santa Fe" logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png", Canal 5 Santa Fe | AR
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 9 Litoral" logo="https://cdn.m3u.cl/logo/236_Canal_9_Litoral.png", Canal 9 Litoral | AR
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal Coop" logo="https://cdn.m3u.cl/logo/275_Canal_Coop.png", Canal Coop | AR
+https://smt-usr-edge01.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Catamarca TV" logo="https://cdn.m3u.cl/logo/203_Catamarca_TV.png", Catamarca TV | AR
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Litus TV" logo="https://cdn.m3u.cl/logo/241_Litus_TV.png", Litus TV | AR
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4670" name="Net TV" logo="https://cdn.m3u.cl/logo/285_Net_TV.png", Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Ver TV" logo="https://cdn.m3u.cl/logo/1374_Ver_TV.png", Ver TV | AR
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 2 Quellon" logo="https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png", Canal 2 Quellon | CL
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" logo="https://bestleague.world/img/bravotv.png", 25-Bravo TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+#EXTINF:0 type="stream" channelId="-1" name="Toonsmania TV" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/FbrdMdg1/Logo-Toonsmania-TV.png", Toonsmania TV HD
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="AnimeXTV" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/fVdNPG7q/Logo-Anime-XTV.png", AnimeXTV
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Dragon Ball Z Pluto TV Spain" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/6R7Sdg2D/Logo-Dragon-Ball-Z-en-Pluto-TV.jpg", Dragon Ball Z Pluto TV Spain
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68e8fd7c3ede4398bc69af93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=546f3bc0-f170-11f0-9fea-e12863dadf7a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=479e3cd7-4b9a-4e76-9bf4-607e7b327d93&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="Familiares" logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png", Magic Kids TV HD (Opcion 2)
+https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Familiares" logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png", Retro Magico
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Laika Channel Spain" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/fYRHnLQB/Logo-Laika-Channel-Espa-a-1.png", Laika Channel Spain HD
+https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Laika Channel" group="JOVENES Y ADULTOS" logo="https://i.ibb.co/bjyBL0SV/Logo-Laika-Channel-3.jpg", Laika Channel HD (Opcion 2)
+https://live20.bozztv.com/akamaissh101/ssh101/laikadragon/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2625", Item 175
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/317555.ts
+#EXTINF:0 type="stream" channelId="2625", Item 176
+http://dplatino.net:80//live/9C00D37FA4FA/D37FA4FA9C00/1268.ts
+#EXTINF:0 type="stream" channelId="-1", Ppv 1 1080p
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/178774
+#EXTINF:0 type="stream" channelId="-1", PPV 2 720p
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/178775
+#EXTINF:0 type="stream" channelId="-1", PPV 3 1080p
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/178776
+#EXTINF:0 type="stream" channelId="-1", PPV 4 1080p
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/178777
+#EXTINF:0 type="stream" channelId="2540", Deportes - espn 1 ARG (i) (720p)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9520
+#EXTINF:0 type="stream" channelId="2540", Deportes - espn 1 ARG (tv) (1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9521
+#EXTINF:0 type="stream" channelId="2540", Deportes - espn 1 ARG (z) (720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9522
+#EXTINF:0 type="stream" channelId="2540", Deportes - espn 1 Lat (z)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179479
+#EXTINF:0 type="stream" channelId="344", Deportes - espn 2 ARG (e) (720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9526
+#EXTINF:0 type="stream" channelId="344", Deportes - espn 2 ARG (PM)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9527
+#EXTINF:0 type="stream" channelId="344", Deportes - espn 2 ARG (z)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9528
+#EXTINF:0 type="stream" channelId="355", Deportes - espn 3 ARG (L)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9533
+#EXTINF:0 type="stream" channelId="355", Deportes - espn 3 ARG (Z)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179492
+#EXTINF:0 type="stream" channelId="-1", Animé es se llama??
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9538
+#EXTINF:0 type="stream" channelId="-1" logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png", Deportes - espn premium ARG (L)(SD)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9549
+#EXTINF:0 type="stream" channelId="-1" logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png", Deportes - espn premium ARG (TV)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9550
+#EXTINF:0 type="stream" channelId="-1" logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png", Deportes - espn premium ARG (Z)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179511
+#EXTINF:0 type="stream" channelId="1329", Deportes - Fox sports 1 ARG (L)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9575
+#EXTINF:0 type="stream" channelId="170", Deportes - Fox sports 2 ARG (Z)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179524
+#EXTINF:0 type="stream" channelId="180", Deportes - Fox sports 3 ARG (i)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9588
+#EXTINF:0 type="stream" channelId="1208", Cine - A&E (L)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9614
+#EXTINF:0 type="stream" channelId="2501", Cine - AMC (M)(SD)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9702
+#EXTINF:0 type="stream" channelId="64", Cine - Cinecanal (TV)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9629
+#EXTINF:0 type="stream" channelId="1326", Cine - Cinemax (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9633
+#EXTINF:0 type="stream" channelId="1326", Cine - Cinemax (Z)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9635
+#EXTINF:0 type="stream" channelId="1190", Cine - Comedy Central (L)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9636
+#EXTINF:0 type="stream" channelId="134", Cine - de película plus (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9639
+#EXTINF:0 type="stream" channelId="-1", Cine -de película (TV)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9642
+#EXTINF:0 type="stream" channelId="1961", Cine - Distrito comedia (L)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9644
+#EXTINF:0 type="stream" channelId="1961", Cine - Distrito comedia (M)(SD)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9645
+#EXTINF:0 type="stream" channelId="326", Cine - Europa Europa (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9648
+#EXTINF:0 type="stream" channelId="1303", Cine - FX (L)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9652
+#EXTINF:0 type="stream" channelId="333", Cine - Golden (Z)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9657
+#EXTINF:0 type="stream" channelId="2502", Cine - Golden edge (M)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9658
+#EXTINF:0 type="stream" channelId="1963", Cine - Golden premier 1 (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9664
+#EXTINF:0 type="stream" channelId="1330", Cine - HBO (M)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9667
+#EXTINF:0 type="stream" channelId="935", Cine - HBO 2 (L)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9671
+#EXTINF:0 type="stream" channelId="2584", Cine - HBO Family (TV)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9680
+#EXTINF:0 type="stream" channelId="2585", Cine - HBO plus (TV)(SD)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9687
+#EXTINF:0 type="stream" channelId="2587", Cine - HBO Xtreme (TV)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9697
+#EXTINF:0 type="stream" channelId="1200", Cine - Litetime (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9703
+#EXTINF:0 type="stream" channelId="1719", Cine - Paramount channel (TV)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9708
+#EXTINF:0 type="stream" channelId="188", Cine - Sony channel (L)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9711
+#EXTINF:0 type="stream" channelId="188", Cine - Sony channel (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9712
+#EXTINF:0 type="stream" channelId="383", Cine - Space (TV)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9718
+#EXTINF:0 type="stream" channelId="177", Cine - Star channel CO (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9721
+#EXTINF:0 type="stream" channelId="177", Cine - Star channel MX (L)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9723
+#EXTINF:0 type="stream" channelId="895", Cine - TCM (M)(SD)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9740
+#EXTINF:0 type="stream" channelId="895", Cine - TCM (Z)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9741
+#EXTINF:0 type="stream" channelId="1052", Cine - TNT (L)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9742
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsB_okAJLOvRCugWQr__C1Z1M_GOgb2wkoFCNCLHHvw&s=10", Cine - Novelas (M)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9747
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Cine - Warner channel (L)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9774
+#EXTINF:0 type="stream" channelId="2639", INF - Tooncast (M)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9883
+#EXTINF:0 type="stream" channelId="-1", 24/7 Cine Latino - México (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/180656
+#EXTINF:0 type="stream" channelId="-1", 24/7 Cine Latino - México clásicas (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/181288
+#EXTINF:0 type="stream" channelId="-1", 24/7 Cinema - acción 1 (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164581
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - 4K
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164942
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - Amazon prime 9 (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164939
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - animacion 2 (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164950
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - comedias (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164959
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - Disney animación 1 (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164953
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema Disney cinema 1 (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164951
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - HBO MAX (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164941
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - infantil 1 (e)(1080)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164943
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - Netflix premier 1
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164802
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - Netflix premier 2
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164863
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - saga karate kid
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164795
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - Saga Rambo
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164799
+#EXTINF:0 type="stream" channelId="-1", 24/7 cinema - Saga Batman Animado
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164947
+#EXTINF:0 type="stream" channelId="-1", 24/7 la rosa de Guadalupe (2008)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/181926
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.vix.com/prd/videos/video:mcp:2791983/6a7968389c26391758768db8f3594cd2", 24/7 María la del barrio (1995)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/181934
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.vix.com/prd/videos/video:mcp:2997365/8289d776dac987eefbda76ab6a56d64b", 24/7 María Mercedes (1992)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/181936
+#EXTINF:0 type="stream" channelId="-1" logo="https://st1.uvnimg.com/e8/9c/5aea74ac8bdfa9183d57d5fa24aa/marimar.jpg", 24/7 Marímar (1994)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/181940
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.pinimg.com/736x/9f/a3/6a/9fa36a6a40283e96ad90ba15f2be93eb.jpg", 24/7 Rubí 2004
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/166975
+#EXTINF:0 type="stream" channelId="-1" logo="https://a.storyblok.com/f/178900/960x540/6e6bcda041/demon-slayer.jpg", 24/7 Demon Slayer
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/181555
+#EXTINF:0 type="stream" channelId="-1" logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/3HZQCBT5FRMO7JMOOZXYSW3R3U.jpg", 24/7 Dragón ball Héroes
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179036
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.shopify.com/s/files/1/0039/8668/6063/files/rose_zamasus_large.png?v=1573747151", 24/7 saga de Zamasu y Goku black
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179032
+#EXTINF:0 type="stream" channelId="-1" logo="https://m.media-amazon.com/images/S/pv-target-images/8e825872b6b561a88bd6038ac0721e9bc8819a62d4547d0c822e0f8e061dc42e.jpg", 24/7 infantil - el chavo Animado
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/169540
+#EXTINF:0 type="stream" channelId="-1" logo="https://pics.filmaffinity.com/The_Looney_Tunes_Show_Serie_de_TV-376885904-large.jpg", 24/7 infantil - el show de los looney tunes
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/169577
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAT9EKJRr-f_mgjQ2jemlASY7EM00lReNUbvIFrY0dUWE3lDtxpWmMpE8&s=10", 24/7 los Simpson temp 1-9
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/178834
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5sf3ctO1hyoCGX1r-8HCeH1E8DjWHvUoIUU8tGg7v6xkT4pTUjJC2DM&s=10", 24/7 los Simpson temp 10-19
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/178836
+#EXTINF:0 type="stream" channelId="-1" logo="https://television.com.ar/wp-content/uploads/2024/04/Casados-con-hijos.png", 24/7 series comedias - casados con hijos
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/165556
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.infobae.com/resizer/v2/Q2YTR5HYUVEH3AW2UQGZL3KNDI?auth=609bcf679cb01b8e3aea67147975386f508236bc929f061f1aefce9b576185e3&smart=true&width=1200&height=1200&quality=85", 24/7 series comedias - el chapulín colorado
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/165887
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCb9-Ym4N_N43mxrRcBsbMqPLeqatebncXd4vueviaxoBFY2vGMyZJnA&s=10", 24/7 series comedias - el chavo del ocho 1
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/166082
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnYtIpSRyPvHBSTbPFJST5N3rPy6KNn07hlIMm_w0su8P9Cm475QZvqZwM&s=10", 24/7 series comedias - El chavo del ocho 2
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/165622
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/batman/images/a/ad/Batman-animated-logo.jpg/revision/latest?cb=20191227060031&path-prefix=es", 24/7 retro - Batman la serie Animada (1992)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/168380
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.tradereadingorder.com/wp-content/uploads/2011/02/Spider-Man-The-Animated-Series.jpg", 24/7 retro spiderman
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/169575
+#EXTINF:0 type="stream" channelId="4668", ARG - TNT Sports (L)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157585
+#EXTINF:0 type="stream" channelId="4668", ARG - TNT Sports (TV)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157584
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_(2019-1).png", ARG - A24 (Z)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157613
+#EXTINF:0 type="stream" channelId="-1" logo="https://yt3.googleusercontent.com/vIYh4fJ4FiOeD0U8sGUEUZQf3DaK-PME00Ckh7cFf4CRmC3EHopvUsjbgYKhNVkFXURSzltWYQ=s900-c-k-c0x00ffffff-no-rj", ARG - américa TV
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157612
+#EXTINF:0 type="stream" channelId="1929", ARG - C5N
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157607
+#EXTINF:0 type="stream" channelId="-1" logo="https://diarioelnorte.com.ar/wp-content/uploads/2025/01/image-2230.png", ARG - Canal 13 (720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157567
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/1280px-Canal_26_logo_(2022).svg.png", ARG - Canal 26 (L)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157568
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", ARG - canal 9 (M)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157569
+#EXTINF:0 type="stream" channelId="-1" logo="https://yt3.googleusercontent.com/ytc/AIdro_kAm_9Xv8LMJ6ov8u0t-CXcTGdekH0vVsMWmCrq0JaWokc=s900-c-k-c0x00ffffff-no-rj", ARG - Cinear (Z)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157601
+#EXTINF:0 type="stream" channelId="-1" logo="https://yt3.googleusercontent.com/EGyrGJo_3mJxohmZxkP0Ksma9r1J1fU1ORZkGkwJkGJKRyeu6aHTD_Zi-4AodbD0hLRnTzoCWA=s900-c-k-c0x00ffffff-no-rj", ARG - Crónica tv (M)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157572
+#EXTINF:0 type="stream" channelId="3789", ARG - Telefe (TV)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157590
+#EXTINF:0 type="stream" channelId="3789", ARG - Telefe (L)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157617
+#EXTINF:0 type="stream" channelId="-1" logo="https://fotos.perfil.com/2024/03/27/tv-publica-1777165.jpg", ARG - TV Publica (Z)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157587
+#EXTINF:0 type="stream" channelId="3802", ARG - Tyc SPORTS (M)(720)
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157580
