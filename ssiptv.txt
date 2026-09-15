@@ -892,8 +892,8 @@ https://inliveserver.com:1936/17044/17044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png" group-title="PCIA BS AS", POWER HD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/98c300d4c9b1e3f00f1968bf4dab9f1f.png" group-title="PCIA BS AS", SEÑAL URBANA
-https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
+#EXTINF:-1 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2026/04/cropped-c51508d6-ba18-4bf6-9a87-6a338089cde0.png" group-title="PCIA BS AS", SEÑAL URBANA
+https://vtm2.msinteractiva.com/urbanamas/urbanamas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UxsATC8a6f0/YKiOxVpYmkI/AAAAAAABCdE/0l8Ol2KwatUj2SUJsJxBpKCAa4poiL32ACK8BGAsYHg/s512/2021-05-21.jpg" group-title="PCIA BS AS", LA UNO AMERICA 
 https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
